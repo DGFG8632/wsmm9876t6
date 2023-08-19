@@ -18,6 +18,19 @@
     
     "series" : [
 
+        {
+            "encrypted":false,
+            "json":true,
+            "category":"Fantasy ,Manhua, Mystery",
+            "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1MEFOTg2cuYUKRnVAh00-wImHO0aH4Ztr0UE4HmqEDjP7QMAzpoFS4WC9uwPV9X64C9cv1juinIxlrBtq7wTfjFcuX-7gOP-numwtLr_o03KIXS1itHcu7mFT-xhcGlVKO8NtFoZ4ZJhYKnxUXeRhFH1H9syG5tGF6ZL60VwAak43G6Ag_s_oKXWPTM/s320/IMG_9568.PNG",
+            "link": "https://dgfg8632.github.io/wsmm9876t6/data/demon_king/episodes.json",
+            "rating": "3.9",
+            "review": "Warning! An association of valiant individuals formed by the villainous demon lord and the rebellious witches has surfaced! Through casual methods of operation, they will turn the definition of justice upside down! By committing crimes across dimensions, they will ultimately snatch the halo of the main characters away from the hands of pesky humans!",
+            "series_id": "0002",
+            "admob_id" : "testhousekeeper",
+            "status": "ongoing",
+            "title": "Demon King’s Rules X Witch’s Covenant"
+            }
   
             {
             "encrypted":false,
@@ -26,7 +39,8 @@
             "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj23b4ICMgG-W9USO5iJGB5tWDfmwMhWcLdo-LyLO__h7Ql6j7UUBiHyIj7Zumt69p3uIUonuyjSEq8MW3p42kTidGToRYqcIHfVdFnzmnsSYai8qfkxhCmNfjDEzGPt_1A4mbDtvQ5_kzy9AiZkaza1l39cvaPLoR-kedzCeKI7Nnr5JK5SVJ_3ey1EP4/s0/craftsman-cv.jpg",
             "link": "https://dgfg8632.github.io/wsmm9876t6/data/craftsman/episodes.json",
             "rating": "4.6",
-            "review": "Alt Name(s) 소꿉친구, Childhood Friend\n\n\nComing back to his hometown after 7 years, this place has changed into a place that no man can resists, unlike what it used to be! A noona wearing a sexy female diver suit, up to his sexy mom’s friend with a mature figure that stimulates the hearts of men…! “The things we weren’t able to do back then… Shall we do it now?”",
+            "review": "Cheng Shan, a mysterious one-armed young man, travels around the world with his companion, a young girl named Ming Cai, in search of a miraculous medicine, the "Faded Dragon Scale". The theft of the black umbrella from the imperial palace resulted in heavy sins. Due to past relations to the black umbrella, Cheng Shan and Ming Cai decide to search for the black umbrella and recover it. However, after several twists and turns where their lives were in danger, they find that the matter is not as simple as they thought. Will Cheng Shan finally be able to unravel all mysteries and distinguish good from evil? Will he be able to escape unscathed from the lethal threats and dangers lurking in every corner, and eventually find the Faded Dragon Scale? dragon? Or, is there a greater conspiracy behind this? In this life, he is destined to be unable to hide and have no other option but to fight with his life because he is... The Craftsman.
+            Source: Bilibili Comics",
             "series_id": "0001",
             "admob_id" : "testhousekeeper",
             "status": "ongoing",
