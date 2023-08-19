@@ -17,6 +17,21 @@
     ],
     
     "series" : [
+
+        {
+            "encrypted":false,
+            "json":true,
+            "category":"Comedy, Fantasy, Harem",
+            "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaiun2W3rGkkcXvHYHN-S7cEwVMdGTeFgaJ1qTHqDxAnpaj8T0Q8WUO0P5H-nyQrP9VMg348Hx4YvFlwwHpsX_gX68FowAYW7KlTRhHFYFt9aoKiDBYCkcsv9Sx-YgPmm86ko1aySEPJY2-jdx9ZV6AhGEogN89jjhrYDQOL1wdFEpR15h2dR7k9wDk18/s320/FB_IMG_1629126331212.jpg",
+            "link": "https://dgfg8632.github.io/wsmm9876t6/data/real_man/episodes.json",
+            "rating": "4.2",
+            "review": "Warning! An association of valiant individuals formed by the villainous demon lord and the rebellious witches has surfaced! Through casual methods of operation, they will turn the definition of justice upside down! By committing crimes across dimensions, they will ultimately snatch the halo of the main characters away from the hands of pesky humans!",
+            "series_id": "0003",
+            "admob_id" : "testhousekeeper",
+            "status": "ongoing",
+            "title": "Real Man"
+        },
+
         {
             "encrypted":false,
             "json":true,
