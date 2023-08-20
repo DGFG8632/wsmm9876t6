@@ -21,6 +21,20 @@
         {
             "encrypted":false,
             "json":true,
+            "category":"Comedy, Fantasy, Harem",
+            "cover": "",
+            "link": "https://dgfg8632.github.io/wsmm9876t6/data/epic_reborn/episodes.json",
+            "rating": "4.2",
+            "review": "မိုးကြိုးဘုရင် Chen Leiတစ်ယောက် ကံကြမ္မာဆိုးကိုမကျော်ဖြတ်နိုင်ဘဲ ကျရှုံးခဲ့ရရှာတယ် သို့ပေမဲ့ သူ့မိသားစုမပျက်စီးခင်အချိန် သူ့ရဲ့ငယ်ဘဝမှာတစ်ဖန်ပြန်လည်မွေးဖွားဖို့ အခွင့်အရေးရရှိခဲ့ပြီး သူ့ရဲ့အတိတ်ဘဝမှတ်ဉာဏ်တွေ ကြီးမားလှတဲ့ပင်ကိုယ်စွမ်းရည်တွေနဲ့အတူ ဝမ်းနည်းမှုတွေကိုချေဖျက်ပြီး ရန်သူတွေကို‌ချေမှုန်း မိသားစုကိုကာကွယ် ကမ္ဘာ့အကြီးဆုံးရတနာတွေကိုစုဆောင်းဖို့ အထက်အာကာသတစ်ခွင်ကိုဆန့်ကျင်ကာ ခရီးရှည်ကြီးကို စတင်ခဲ့ပါတော့တယ်....",
+            "series_id": "0005",
+            "admob_id" : "testhousekeeper",
+            "status": "ongoing",
+            "title": "Epic Reborn"
+        },
+
+        {
+            "encrypted":false,
+            "json":true,
             "category":"Fantasy, Action",
             "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1dKKrZIu4AqIzUkWMHrQeeHEImETzGO6UHDdjZQRHHNU75IGmmbUhfd65FuAlZmSUMoNnaKotzCmhyU8fmSuI7YcL8UPXtqXrtkzFbEA-OmWnKRA1bbOEtbk_KNvtg-9q7s_Mf2Fjky496fxloRU1SDGgU-PxaRs3p3BDtLTBrTN-DwoOvr_-mZvfILE/s0/FB_IMG_1629126322609.jpg",
             "link": "https://dgfg8632.github.io/wsmm9876t6/data/bloodline/episodes.json",
