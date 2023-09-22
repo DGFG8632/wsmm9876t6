@@ -19,19 +19,7 @@
         },
 
         
-        {
-            "encrypted":false,
-            "json":true,
-            "category":"Comedy, Fantasy, Harem",
-            "cover": "",
-            "link": "https://dgfg8632.github.io/wsmm9876t6/data/one_armed/episodes.json",
-            "rating": "4.2",
-            "review": "Warning! An association of valiant individuals formed by the villainous demon lord and the rebellious witches has surfaced! Through casual methods of operation, they will turn the definition of justice upside down! By committing crimes across dimensions, they will ultimately snatch the halo of the main characters away from the hands of pesky humans!",
-            "series_id": "0000",
-            "admob_id" : "testhousekeeper",
-            "status": "ongoing",
-            "title": "One armed army"
-        },
+
         {
             "encrypted":false,
             "json":true,
