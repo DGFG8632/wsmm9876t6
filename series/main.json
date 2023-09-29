@@ -35,13 +35,39 @@
     "encrypted":false,
     "json":true,
     "category":"Comedy, Fantasy, Harem",
+    "cover": "",
+    "link": "https://dgfg8632.github.io/wsmm9876t6/data/good_game/episodes.json",
+    "rating": "4.2",
+    "review": "Warning! An association of valiant individuals formed by the villainous demon lord and the rebellious witches has surfaced! Through casual methods of operation, they will turn the definition of justice upside down! By committing crimes across dimensions, they will ultimately snatch the halo of the main characters away from the hands of pesky humans!",
+    "series_id": "0003",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Good Game"
+},
+{
+    "encrypted":false,
+    "json":true,
+    "category":"Comedy, Fantasy, Harem",
+    "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguJqyTIu_Vu-84hE2PgKl3eSZodohY-1yMFg-7bfJd_ZPmbVDZuJoPwlFIo8isB1_yyL-grmKKXFCtnd7gfSw3DzZZ9BHBdahcG4fP_Can_jvDG7O3WXpri2d1Qf3yl2cG5UWgAiCYOrdr1Ek9-YJwPBaHrJk8OKQPVX5ixWrk059AfwisozHjzitCaJX0/s0/FB_IMG_1693239036988.jpg",
+    "link": "https://dgfg8632.github.io/wsmm9876t6/data/master_knife/episodes.json",
+    "rating": "4.2",
+    "review": "Warning! An association of valiant individuals formed by the villainous demon lord and the rebellious witches has surfaced! Through casual methods of operation, they will turn the definition of justice upside down! By committing crimes across dimensions, they will ultimately snatch the halo of the main characters away from the hands of pesky humans!",
+    "series_id": "0002",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Master Of Knife"
+},
+{
+    "encrypted":false,
+    "json":true,
+    "category":"Comedy, Fantasy, Harem",
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaxqLhzfTMg6XbfnvdjRiEWhESJb39t3fZbxt2DxhLHIlOL4F4-Xstu9NumZMEFU12taoWE2EE7VzSUhfz87XaXNBCZ3GlisFoPU3_QnnIIfKsUKWqDD6QDJkrzPjok-yL5cutS1aCKanmXr2cHihw3r2lzCA2CfC0mzOyEgfLSiAnsQ0h49JtD1caT4wH/s320/FB_IMG_1693235435584.jpg",
     "link": "https://dgfg8632.github.io/wsmm9876t6/data/one_armed/episodes.json",
     "rating": "4.2",
     "review": "Warning! An association of valiant individuals formed by the villainous demon lord and the rebellious witches has surfaced! Through casual methods of operation, they will turn the definition of justice upside down! By committing crimes across dimensions, they will ultimately snatch the halo of the main characters away from the hands of pesky humans!",
     "series_id": "0001",
     "admob_id" : "testhousekeeper",
-    "status": "ongoing",
+    "status": "One Shot",
     "title": "One armed army"
 }
 ]
