@@ -35,6 +35,20 @@
     "encrypted":false,
     "json":true,
     "category":"Comedy, Fantasy, Harem",
+    "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaiun2W3rGkkcXvHYHN-S7cEwVMdGTeFgaJ1qTHqDxAnpaj8T0Q8WUO0P5H-nyQrP9VMg348Hx4YvFlwwHpsX_gX68FowAYW7KlTRhHFYFt9aoKiDBYCkcsv9Sx-YgPmm86ko1aySEPJY2-jdx9ZV6AhGEogN89jjhrYDQOL1wdFEpR15h2dR7k9wDk18/s320/FB_IMG_1629126331212.jpg",
+    "link": "https://dgfg8632.github.io/wsmm9876t6/data/real_man/episodes.json",
+    "rating": "4.2",
+    "review": "MC တစ်ယောက် ရိုးသားတဲ့နည်း လမ်းနဲ့မဟုတ်ဘဲ တစ်ယောက်ပေါ်ကိုတစ်ယောက်နင်းကာ Hansung Company ရဲ့ CEO ဖြစ်လာခဲ့ပါတယ် သိုသော်လည်း သူ့ကို ဂုဏ်ပြုပေးမယ့် မိသားစု သူငယ်ချင်း တွေဟာ ကျောခိုင်းသွားပြီးနောက်ပိုင်းမှာ နောင်တတွေ တစ် သီတတန်းနဲ့ ကျန်ခဲ့ရပါတယ်
+    သိုသော်လည်း အမှတ်မထင်ဘဲ သူ့ရဲ့ ငယ်ဘဝကို ပြန်လည် ရောက်ရှိသွားတဲ့အချိန်မှာ သူဘဝရဲ့ ပထမဆုံးလမ်းလှမ်းကို နောက်တစ်ကြိမ် ထပ်မမှားအောင် ဘယ်လိုပြန်လည်ပြင်ဆင်မ လဲဆိုတာ ဖတ်ရှုရမှာပါ",
+    "series_id": "0005",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Real Man"
+},
+{
+    "encrypted":false,
+    "json":true,
+    "category":"Comedy, Fantasy, Harem",
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRs5L2Q8V-d3xgWXjgsqXFP_0egQdYGebJ-NwfIJvFFse096i6hX8xVP0ta6i4ROl9tXupiddQWfdy5glxLpre7LXyOtUgmJvAMgG-Q-E_5pja7W-lJ-mOBV4jJjI3Lysmfdxtb6BnuPVjkwuh5cEEIbfQiPUkdyAqHgVaPu38pxI-jeTS6xHGhxjJ-79W/s0/FB_IMG_1693231550946.jpg",
     "link": "https://dgfg8632.github.io/wsmm9876t6/data/good_game/episodes.json",
     "rating": "4.2",
@@ -52,7 +66,7 @@
     "link": "https://dgfg8632.github.io/wsmm9876t6/data/xiu_tu/episodes.json",
     "rating": "4.2",
     "review": "Warning! An association of valiant individuals formed by the villainous demon lord and the rebellious witches has surfaced! Through casual methods of operation, they will turn the definition of justice upside down! By committing crimes across dimensions, they will ultimately snatch the halo of the main characters away from the hands of pesky humans!",
-    "series_id": "0012",
+    "series_id": "0004",
     "admob_id" : "testhousekeeper",
     "status": "ongoing",
     "title": "Xiu Tu"
