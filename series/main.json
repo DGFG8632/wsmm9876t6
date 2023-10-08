@@ -77,7 +77,7 @@
 {
     "encrypted":false,
     "json":true,
-    "category":"Comedy, Fantasy, Harem",
+    "category":"Action,Adventure,Horror, Romance, Manga",
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAUCKZc7JMCP3YoT9TaDeklLQvDQZs-rpFB6muKHYN6m_2WTZCQITbTBMhXFIpHMEmHlktUU0N9ey0Vh5s1mmuMiyV6Hj9rgIO-TF8zlM0QxbKLMNE_a7ct2tAilfLPggY2MVvhE29EI-cFsJ_PvnfP8h8tCSYGIuGhRoKzAWF1VMJOV4BUVCOyIfP32Y/s0/Hachigatsu%20Kokonoka%20Boku%20wa%20Kimi%20ni%20Kuwareru.jpg",
     "link": "https://dgfg8632.github.io/wsmm9876t6/data/Hachigatsu/episodes.json",
     "rating": "4.2",
@@ -116,6 +116,19 @@
 {
     "encrypted":false,
     "json":true,
+    "category":"Action,Adventure,Reincarnation, Manhwa",
+    "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq-FMn9klXGWOfeKpk0e25pU9qz2UF_CC5xSJK8BsUW_ATnQJi0FCmgY8bfOMxHnny_ed_tkqotnBuAOCqftBPxSXOQ3QtQEUFw0ktDr9CxzROhtCOm0_Eg9uZoRSCmdzSXWvmLpbIhKUX6e8LT0YjVBt-qxfFGdFNV_NVYA4qJ5xqRhoWdgEgYUunLJY/s0/Standard%20of%20Reincarnation.webp",
+    "link": "https://dgfg8632.github.io/wsmm9876t6/data/standard_of_reincarnation/episodes.json",
+    "rating": "4.5",
+    "review": "The greatest martial family, Samion. Dayven, a member of the Samion family, is a one-armed martial soldier without a right arm. Despite the ridicule and contempt he got for only having a left arm, he surpassed the direct line of the Samion family like a genius. However, he got betrayed by his family and parents in the end, thus meeting a poor end. But, he was reincarnated. “I have a right arm?” He had a new family tradition. A naturally gifted body. Experience from his past life. And the god Yulion with him as well. After his reincarnation, everything changed, and a new adventure started.",
+    "series_id": "0019",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Standard of Reincarnation"
+},
+{
+    "encrypted":false,
+    "json":true,
     "category":"Comedy, Fantasy, Harem",
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWZJS0uuhm42IzHl7EcAXsYOLeTgL1L9WHDmz6SNYy9PxufGxKyqi5_ZKlZ5Fz3UwY6Z1AZDd_E0fG1cE-Np6yN_5vzJFMTr2ST1FxibiBA60zzjjYMbopyp2cMix2b-wH4C_rPj6Wshj86CImGOwOkE6Y4uNebfsgutJ9It4-RfDG3zpZOYUOzT99zMZx/s0/FB_IMG_1693230740016.jpg",
     "link": "https://dgfg8632.github.io/wsmm9876t6/data/trap_in_novel/episodes.json",
@@ -129,7 +142,7 @@
 {
     "encrypted":false,
     "json":true,
-    "category":"Comedy, Fantasy, Harem",
+    "category":"Romance,School Life,Comedy,Shounen,Slice of Life,Shounen,Manga",
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDUFWTIK4wBg9GUqmEu2L6oa1o0y2LbZjT6bZKIHLioUVrCMyItvv2j4rpSiMEoIlB0wzwS94XgWsZ3CrKTEvwfibUpWTW6snMKnvHDtBDkLVvcQItrx8qbGtH6V9rkt0xzhVmwRxjJE4xhb8wu3VFlhQlCQV4Ez9g40SkrivS3ZUM-c9oVSJ5G2eJchk/s320/Mizuki-Senpai%27s%20Love%20fortune-teller.jpeg",
     "link": "https://dgfg8632.github.io/wsmm9876t6/data/Mizuki-Senpai/episodes.json",
     "rating": "4.2",
