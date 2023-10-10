@@ -513,6 +513,19 @@
 {
     "encrypted":false,
     "json":true,
+    "category":"Adventure,Fantasy,Romance,,Manga",
+    "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix5KR2zkI9Oxf1kM5CYayuVfsNmAPHisXaV_Kvt4fB8wimGW4-z1-RJpXF7X9m0y0cSk-UGR26Sl63SJSCOT6ASe7HziDCX2xUlbANmQtGml8Jqd0HvJLrWrbSLWnlNCsNcAiT-al4nE6YU9gu_cybYyywPCs7Pbe7B8ydOAZNRAKV6H3lgv49lUF8AgE/s320/Horimiya.jpg",
+    "link": "https://dgfg8632.github.io/wsmm9876t6/data/horimiya/episodes.json",
+    "rating": "4.2",
+    "review": "ကျောင်းမှာ otaku လို့ထင်ရတဲ့ကောင်လေးကို အပြင်မှာတွေ့လိူက်တော့ otaku မဟုတ်မှန်းသိသွားပြီ MC girl နဲ့ခင်သွားခဲ့ပါတယ် အဲ့လိုနဲ့ပဲ ကျောင်းတော်ကြီးမှာ ဘယ်လိုတွေဖြတ်သန်းမလည်းကြည့်ရမှာပါ",
+    "series_id": "0042",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Horimiya"
+},
+{
+    "encrypted":false,
+    "json":true,
     "category":"Comedy, Fantasy, Harem",
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipsBPAk8DfH3F-rGSSQcm10XhBXdVCfITSQnt3jCYxr9pOgejSZLoIjY9uKccASQQGZlgBtuos2ZDXZuvYl2HBzB9QYadDRtA64pmBPTzLmdYW9CPV74S7NFaFY8UArdWUlo1ofa3BBvU0j0EWCovGJJGPltY4UkLrBsSWUod6hyBoSXY7JUPpJoFb45s/s0/photo_2023-09-29_21-45-23.jpg",
     "link": "https://dgfg8632.github.io/wsmm9876t6/data/real_man/episodes.json",
