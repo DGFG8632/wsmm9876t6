@@ -4,7 +4,19 @@
         "content":""
     },
 
-
+{
+    "encrypted":false,
+    "json":true,
+    "category":"Action,Adventure,Harem,Isekai,Magic,Manga",
+    "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTkh31be7EHBQpWPGHKLAQx4YZAMxiuUbYNWhwwi86kdQPUpoJEQIm_q8YuFz9n55Tk-Z8xLEnQ67r0MxLyVBccRD99JN5f6UME8Pj4pAsO-CbhVadYcQm904QBixnSsg96GKQF_EkKirYFSU4_eTI_UL7g_Gfk77kH_FsTGyjS-UJMy9EAbuyuiQABnU/s0/Kuro%20No%20Shoukanshi.jpg",
+    "link": "https://dgfg8632.github.io/wsmm9876t6/data/kuro_no_shoukanshi/episodes.json",
+    "rating": "4.2",
+    "review": "coming soon",
+    "series_id": "0040",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Kuro No Shoukanshi"
+},
  
 
         {
