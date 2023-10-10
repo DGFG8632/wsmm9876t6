@@ -126,19 +126,19 @@
     "status": "ongoing",
     "title": "I Regressed to My Ruined Family"
 },
-{
-    "encrypted":false,
-    "json":true,
-    "category":"Comedy, Fantasy, Harem",
-    "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6c1UG3EpRGPLBz2COPU0oVr1iDAmjWZ-y6e3TD5JEZ7diVHt5z16OArig_fLtE7IeNAuwvuRqPlyOH0j8MyBVClvotcKffZYeUdzfnzibGL1zTePLEA0Dqw8_0Yt1GGr7dD5sK0aQBfLlZo4l9BLk6i2rrSgA9prti5iPfA6SGkdvMbdWIFpV4SEJjzM/s0/apocalypse-mechanic-193x278.png",
-    "link": "https://dgfg8632.github.io/wsmm9876t6/data/apocalypse_mechanic/episodes.json",
-    "rating": "4.8",
-    "review": "(note - harem မပါပါ author ကိုယ်တိုင်ဖြေပေးထားတာပါ)ကမ္ဘာပျက်ကြီးဆိုမှာကတော့ အမှောင်လောကသားတွေပဲ ထိပ်တန်းရောက်တဲ့နေရာတစ်ခုဆိုလည်း မမှားပါဘူး အဲ့မှာမှ ကျွန်တော်တို့ရဲ့ MC ကရိုးသားကြိုးစားတော့ အတိတ်ကိုပြန်ပို့ပေးမဲ့ စက် ကိုတွေ့သွားခဲ့တယ်။ သူအတိတ်ဘဝအကြောင်းလေးနည်းနည်းဆက်လိုက်ရအောင် ပထမ ဖုတ်ကောင်တွေစဖြစ်ဖြစ်ချင်းမှာပဲ သူ့အတန်းခေါင်းဆောင်ကြောင့် ဖုတ်ကောင်အကိုက်ခံရပြီးလက်ဖြတ်ခဲ့ရတယ် နောက်တော့ အဲ့မှာဖုတ်ကောင်ဖြစ်မှာကလွတ်သွားပြီးသူ့ကို ဆေးကုပေးမဲ့ loli လေးနဲ့ဆုံပြီးအသက်ရှင်ခွင့်ရခဲ့တယ် ဒါပေမဲ့ သူ့ကိုကယ်တင်သူလေးက မကောင်းတဲ့ဂိုဏ်းစတားတွေကြောင့် ဘာလာဘာလာဖြစ်ပြီးသေဆုံးခဲ့ရတယ်။ နောက်တော့အတန်းခေါင်းဆောင်တို့ လောကကြီးတို့သူ သူ့ကိုအမျိုးမျိုးဝိုင်းနှိပ်ဆက်ခံခဲ့ရတယ် အဲ့လိုနဲ့စက်ကြီးကိုတွေ့ပြီးအတိတ်ကိုပြန်ရောက်လာတဲ့အခါမှာ သူအရင်က ကယ်တင်သူလေးကိုပြန်ကယ်တင်ပြီး ပျက်ကိန်းလောကကို ဘယ်လိုရင်ဆိုင်မလဲဆိုတာ စိတ်ဝင်စားစွာဖတ်ရမှာဖြစ်ပါတယ်",
-    "series_id": "0025",
-    "admob_id" : "testhousekeeper",
-    "status": "ongoing",
-    "title": "Apocalypse Mechanic"
-},
+// {
+//     "encrypted":false,
+//     "json":true,
+//     "category":"Comedy, Fantasy, Harem",
+//     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6c1UG3EpRGPLBz2COPU0oVr1iDAmjWZ-y6e3TD5JEZ7diVHt5z16OArig_fLtE7IeNAuwvuRqPlyOH0j8MyBVClvotcKffZYeUdzfnzibGL1zTePLEA0Dqw8_0Yt1GGr7dD5sK0aQBfLlZo4l9BLk6i2rrSgA9prti5iPfA6SGkdvMbdWIFpV4SEJjzM/s0/apocalypse-mechanic-193x278.png",
+//     "link": "https://dgfg8632.github.io/wsmm9876t6/data/apocalypse_mechanic/episodes.json",
+//     "rating": "4.8",
+//     "review": "(note - harem မပါပါ author ကိုယ်တိုင်ဖြေပေးထားတာပါ)ကမ္ဘာပျက်ကြီးဆိုမှာကတော့ အမှောင်လောကသားတွေပဲ ထိပ်တန်းရောက်တဲ့နေရာတစ်ခုဆိုလည်း မမှားပါဘူး အဲ့မှာမှ ကျွန်တော်တို့ရဲ့ MC ကရိုးသားကြိုးစားတော့ အတိတ်ကိုပြန်ပို့ပေးမဲ့ စက် ကိုတွေ့သွားခဲ့တယ်။ သူအတိတ်ဘဝအကြောင်းလေးနည်းနည်းဆက်လိုက်ရအောင် ပထမ ဖုတ်ကောင်တွေစဖြစ်ဖြစ်ချင်းမှာပဲ သူ့အတန်းခေါင်းဆောင်ကြောင့် ဖုတ်ကောင်အကိုက်ခံရပြီးလက်ဖြတ်ခဲ့ရတယ် နောက်တော့ အဲ့မှာဖုတ်ကောင်ဖြစ်မှာကလွတ်သွားပြီးသူ့ကို ဆေးကုပေးမဲ့ loli လေးနဲ့ဆုံပြီးအသက်ရှင်ခွင့်ရခဲ့တယ် ဒါပေမဲ့ သူ့ကိုကယ်တင်သူလေးက မကောင်းတဲ့ဂိုဏ်းစတားတွေကြောင့် ဘာလာဘာလာဖြစ်ပြီးသေဆုံးခဲ့ရတယ်။ နောက်တော့အတန်းခေါင်းဆောင်တို့ လောကကြီးတို့သူ သူ့ကိုအမျိုးမျိုးဝိုင်းနှိပ်ဆက်ခံခဲ့ရတယ် အဲ့လိုနဲ့စက်ကြီးကိုတွေ့ပြီးအတိတ်ကိုပြန်ရောက်လာတဲ့အခါမှာ သူအရင်က ကယ်တင်သူလေးကိုပြန်ကယ်တင်ပြီး ပျက်ကိန်းလောကကို ဘယ်လိုရင်ဆိုင်မလဲဆိုတာ စိတ်ဝင်စားစွာဖတ်ရမှာဖြစ်ပါတယ်",
+//     "series_id": "0025",
+//     "admob_id" : "testhousekeeper",
+//     "status": "ongoing",
+//     "title": "Apocalypse Mechanic"
+// },
 {
     "encrypted":false,
     "json":true,
