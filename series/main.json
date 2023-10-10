@@ -156,6 +156,20 @@
 {
     "encrypted":false,
     "json":true,
+    "category":"Action, Adventure, Comedy, Fantasy, Harem, Romance, Shounen,Isekai, Manga",
+    "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Jxhvdai2orpDVtLaY0o6DLLx4R0sQGGEDP_iOr-SgZQ1rflw6PQSzAZxYNvOkD0LPJUV6vND4CAoy8O6rh0US4j-nFNjlfydmMy64Ga_Cs6IYvTyaCduW5naIWgyzltvr-6GJiG1KOMACUic9WAXbS4sVffVO-IebMSpg4ni9-ZPHl5Vw51EZebvEY4/s0/the_fierce_revolution_the_strongest_organism_which_can_kill_the_devil_and_the_hero4264.jpg",
+    "link": "https://dgfg8632.github.io/wsmm9876t6/data/strongest_organism/episodes.json",
+    "rating": "4.0",
+    "review": "The story is about a guy who died due to a car crash because of a young couple making out (what bad luck!) And he was reincarnated into a fantasy world – but as a dragon! An extremely funny and powerful one! Let’s see how our unlucky main character lives as a badass dragon!?",
+    "series_id": "0028",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Strongest Organism Which Can Kill the Devil and the Hero"
+},
+
+{
+    "encrypted":false,
+    "json":true,
     "category":"Action,Adventure,Fantasy,Romance, Manga",
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXjjBETSufU4DdFFc3K-MzvJ9gezVmN8ymZuSFHxny-GsGpNfQfxm55CCu6n6CiZd9HySeSmN5g3wLE0tdK2bC0cE6Ai_-fyt_tCwoEVLnmBB_-3_szgYk6D47lszJRWTvBAZve7_pFIFUdiItu-EnE6NcVBNDt_n4Ylk1OYBWGpS3ifNNFZEN6ju7MF8/s0/Berserk-Of-Gluttony.jpg",
     "link": "https://dgfg8632.github.io/wsmm9876t6/data/berserk_of_gluttony/episodes.json",
@@ -174,7 +188,7 @@
     "link": "https://dgfg8632.github.io/wsmm9876t6/data/the_demon_begging_me/episodes.json",
     "rating": "4.5",
     "review": "demons: Jiang Ya, a former e-sports player who dropped out of school, strays into the world of mysterious crimes. The evil world is rampant, and Jiang Ya actually found out that he is the master of the sinful world. He has to bear the fate of a world and is forced to cultivate immortals from zero. He uses all kinds of tricks to achieve hard power overtaking corners and suppressing a world. As his strength increased, he gradually discovered the terrifying truth behind the criminal world.……",
-    "series_id": "0000",
+    "series_id": "0027",
     "admob_id" : "testhousekeeper",
     "status": "ongoing",
     "title": "The Demons Begging Me To Let Them Go"
