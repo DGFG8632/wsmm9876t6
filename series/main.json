@@ -208,15 +208,28 @@
 {
     "encrypted":false,
     "json":true,
-    "category":"Action, Adventure, Comedy, Fantasy, Harem, Romance, Shounen,Isekai, Manga",
+    "category":"Romance,CEO,Manhua",
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6tksHGsYmMnkSH8-NC36FUBa0az6LqvrvNZEaVulpZuEJfrPbH_mZW-_w-Og9hG_1IXIWivdujwC6nEBwA2wb2BKGOhQ85YAi046pNwXWf0kfgYZmjVzXdapYvZHaC6QHMYNQjuFzGpzaOk-SMkgsznuADZvT-eGMXJouALnmDmybBBipA7OO0llI_fM/s0/My%20son%20is%20a%20matchmaker.jpg",
     "link": "https://dgfg8632.github.io/wsmm9876t6/data/little_twin/episodes.json",
     "rating": "4.0",
-    "review": "The story is about a guy who died due to a car crash because of a young couple making out (what bad luck!) And he was reincarnated into a fantasy world – but as a dragon! An extremely funny and powerful one! Let’s see how our unlucky main character lives as a badass dragon!?",
+    "review": "review  လေးကတော့ထွေထွေထူးထူးမရှိပါဘူး ပါပါရာဇီက idol တစ်ယောက်ကို ဓာတ်ပုံလိုက်ရိုက်ရင်းနဲ့ သူ့ကင်မရာက Idol စီရောက်သွားခဲ့တယ်\nအဲ့မှာကိုမှ Idol စီက ကင်မရာပြန်ခိုးရင်း ကလေးတွေပါ ပါလာပြီး ဇယားရှုပ်တဲ့ Manhua ဖြစ်ပါတယ်",
     "series_id": "0052",
     "admob_id" : "testhousekeeper",
     "status": "ongoing",
     "title": "Little Twin Matchmakers"
+},
+{
+    "encrypted":false,
+    "json":true,
+    "category":"System,Comedy,Manhua",
+    "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaLcDPM0Y6d-lF92LAaUJIG7uCW12sWj3VktVdher863J3AOT-zz5ToZX7wWX3Z0VzsC2hy7B7HymLiUJvXPuipqTamJOwx1l3z3LzELMz6Kh8q_5cDJHuktcyDjOYKYXPi3vW0qQT4JOvbb64wce80Dm1xxkYL9c1ZbiOjtD8-LK9zuGBJmwI_IAQtfM/s0/Millionaire%20Player.jpg",
+    "link": "https://dgfg8632.github.io/wsmm9876t6/data/millionaire-player/episodes.json",
+    "rating": "4.0",
+    "review": "မကောင်းတဲ့စနစ်နဲ့တွေပြီး စနစ်မကောင်းကြံတာကို 6 လလောက်ခံပြီးတော့ စနစ်ကိုပါးပြန်ရိုက်လို့ရသွားသောအခါ ဘယ်လိုတွေဖြစ်မလဲဖတ်လိုက်တော့ဗျ",
+    "series_id": "0053",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Millionaire Player"
 },
 {
     "encrypted":false,
