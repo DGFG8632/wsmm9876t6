@@ -16,7 +16,20 @@
     ],
     
 "series" : [
-
+    {
+        "encrypted":false,
+        "json":true,
+        "category":"Comedy, Fantasy, Harem",
+        "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKJ8hLbOlhjbKUZ8O8ZM9No5FK1O5hhNbCdOnFd5kYhAq1TshKc7ryfRGXLKOXS20gnh6w1YL6sXV56w6IZkyj7XPuLAdffBitJI1uFiVHEO2Aq38ONCta8dR5RIEUzQimRc-V8Rfyzl9JSHmeg5BfDyC3El1gD31VXH2Up9imWeWLlGJuGLE8XlgT3IM/s0/real_man.jpg",
+        "link": "https://dgfg8632.github.io/wsmm9876t6/data/real_man/episodes.json",
+        "rating": "4.2",
+        "review": "MC တစ်ယောက် ရိုးသားတဲ့နည်း လမ်းနဲ့မဟုတ်ဘဲ တစ်ယောက်ပေါ်ကိုတစ်ယောက်နင်းကာ Hansung Company ရဲ့ CEO ဖြစ်လာခဲ့ပါတယ် သိုသော်လည်း သူ့ကို ဂုဏ်ပြုပေးမယ့် မိသားစု သူငယ်ချင်း တွေဟာ ကျောခိုင်းသွားပြီးနောက်ပိုင်းမှာ နောင်တတွေ တစ် သီတတန်းနဲ့ ကျန်ခဲ့ရပါတယ်
+        သိုသော်လည်း အမှတ်မထင်ဘဲ သူ့ရဲ့ ငယ်ဘဝကို ပြန်လည် ရောက်ရှိသွားတဲ့အချိန်မှာ သူဘဝရဲ့ ပထမဆုံးလမ်းလှမ်းကို နောက်တစ်ကြိမ် ထပ်မမှားအောင် ဘယ်လိုပြန်လည်ပြင်ဆင်မ လဲဆိုတာ ဖတ်ရှုရမှာပါ",
+        "series_id": "0007",
+        "admob_id" : "testhousekeeper",
+        "status": "Webtoon",
+        "title": "Real Man"
+    }, //Real Man >> ep 9 W
     {
         "encrypted":false,
         "json":true,
